@@ -1,6 +1,7 @@
 # Neural Graph Collaborative Filtering for CloudMusic App
 
 A PyTorch implementation of Neural Graph Collaborative Filtering (NGCF) adapted for the CloudMusic (喵听) App recommendation system. This repository contains code for training and deploying a graph-based recommendation model that leverages user-item interactions to provide personalized music recommendations.
+
 ![bfa1b245-0d5a-489c-b89d-0d7a8e1813be](https://github.com/user-attachments/assets/63835b65-f91c-45ea-a8c5-bc9be0f8b845)
 
 ## Table of Contents
